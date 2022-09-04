@@ -18,10 +18,14 @@ Schema and data both are created using schema.sql and data.sql.
 Console is available on http://localhost:8080/h2-console/login.jsp
 
 ### Output
-Result of this application is as below
+Data is stored in hierarchical format in a tree and result of this application is as below
 
 ```text
-City : Country : Continent
+City1 : Country1 : Continent1
+City2 : Country2 : Continent2
+.
+.
+.
 ```
 
 
